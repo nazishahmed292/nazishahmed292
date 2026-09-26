@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>👋 Hi, I’m Mohammed Nazish, a passionate **Full Stack Developer** who enjoys building modern, responsive, and user-friendly web applications.<br><br>💻 I love turning ideas into **complete, functional applications**, from designing intuitive interfaces to developing reliable backend systems and APIs.<br><br>🤖 I’m also interested in **AI, Machine Learning, and Data Analytics**, and I enjoy integrating intelligent features into practical projects.<br><br>🚀 I’m continuously learning, experimenting with new technologies, and improving my **problem-solving and software development skills** through hands-on projects.<br><br>🌱 Currently focused on building **real-world projects, strengthening my development skills, and preparing for opportunities in the software industry**.<br><br>🤝 Open to **collaborations, internships, projects, and opportunities** where I can learn, contribute, and grow.<br>
+## About Me<br><br>👋 Hi, I’m **Mohammed Nazish**, a Full Stack Developer.<br><br>💻 I build modern, responsive, and user-friendly web applications.<br><br>🤖 Exploring AI, Machine Learning, and Data Analytics.<br><br>🚀 Passionate about learning, building, and solving real-world problems.<br><br>🌱 Always learning. Always building. Always improving.<br>
 
 
 ## 🌐 Socials:
